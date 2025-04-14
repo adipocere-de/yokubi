@@ -32,9 +32,6 @@ This brings us to では. では is a compound particle. The は here can be con
 <pre>
 公園<b>では</b>アイスが売られる
 Ice cream is sold <b>at</b> the park.
-
-この市<b>では</b>いつも雨が降ってる
-It's always raining <b>in</b> this city.
 </pre>
 
 This also extends to the state of being, as we already saw in [lesson 1](./Lesson1.md).
